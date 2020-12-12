@@ -1,0 +1,4 @@
+GDA and NB: https://www.youtube.com/watch?v=nt63k3bfXS0
+NB: https://www.youtube.com/watch?v=O2L2Uv9pdDA
+Gaussian NB:https://www.youtube.com/watch?v=H3EjCKtlVog
+Building NB from scratch: https://towardsdatascience.com/na%C3%AFve-bayes-from-scratch-using-python-only-no-fancy-frameworks-a1904b37222d
